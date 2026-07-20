@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">PCB</title>
+  <desc id="desc">PCB company profile favicon</desc>
+  <rect width="64" height="64" rx="12" fill="#ff9900"/>
+  <path d="M13 20h15v7H21v10h7v7H13V20Zm23 0h15v7h-8v17h8v7H36V20Z" fill="#202124"/>
+</svg>
+
