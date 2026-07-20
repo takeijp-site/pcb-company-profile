@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://takeijp-site.github.io/pcb-company-profile/sitemap.xml
+
